@@ -28,7 +28,7 @@ function Cart() {
             </a>
           </div>
           <div className="buttons">
-            <button className="step-next">Proceed to Payment</button>
+            <button className="step-next" curs>Proceed to Payment</button>
             <button className="step-back">Cancel Order</button>
           </div>
         </div>
